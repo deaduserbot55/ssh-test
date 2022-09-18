@@ -31,5 +31,5 @@ jobs:
         # Send connection info to Telegram (optional)
         # You can find related documents here: https://core.telegram.org/bots
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_BOT_TOKEN: "5334007205:AAG8qLcVVGtqrBVUezCeZw-sxg_lEjBC8QA"
+          TELEGRAM_CHAT_ID: -1001789839996
